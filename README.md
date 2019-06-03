@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-- [Elementary](https://github.com/im-shivam/C--Programming/blob/master/README.md#elementary)
-- [Lists/strings](https://github.com/im-shivam/C--Programming/blob/master/README.md#listsstrings)
+- [Elementary](https://github.com/im-shivam/Cpp/blob/master/README.md#elementary)
+- [Lists/strings](https://github.com/im-shivam/Cpp/blob/master/README.md#listsstrings)
 
 ## Elementary
 
